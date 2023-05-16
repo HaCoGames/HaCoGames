@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HaCoGames
+- 👋 Hi, I’m Peter Hafner aka. @HaCoGames
 - 👀 I’m interested in Programming, Gaming, Art
 - 🌱 I’m currently learning Python / Java
 - 💞️ I’m looking to collaborate on ...
