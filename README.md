@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Peter Hafner aka. @HaCoGames
 - 👀 I’m interested in Programming, Gaming, Art
-- 🌱 I’m currently learning Python / Java
+- 🌱 I’m currently learning Python / Java / JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:  peterhafner552@gmail.com  petersplays552@gmail.com  peter@hafnerp.dev
 
